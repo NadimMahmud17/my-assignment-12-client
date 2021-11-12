@@ -1,70 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project is e-shope, you can visit here with this link [Tesla-car shop](https://tesla-car-e-shop.netlify.app/).
 
-## Available Scripts
 
-In the project directory, you can run:
+- After nearly 16 months with our Tesla Model 3 Standard Range Plus (SR+), I decided to create a full summary video running through everything I could think to note from the time of buying the car until today. Watch the video for the full summary. Below the video is a bullet-point list of some highlights.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- The ordering process is the easiest, quickest ordering (including financing) process imaginable for a car. It’s stunningly easy, quick, and painless.
+- The delivery process was also quite quick and easy.
+- A few days after receiving the car, I wrote an article titled, All The Problems With Our New Tesla Model 3 Standard Range Plus. I recommend you check it out if you missed that.
+- We’ve had a couple of minor trim issues — well, one was just imagined and one real (and extremely minor). Frankly, even on the second one, if I hadn’t been so aware of such issues from all the FUD about them, I might not have ever noticed and I definitely wouldn’t have thought to have it fixed by the service center. (Side note: I didn’t realize it was going to cost me
+- Additionally, the white seats are a luxurious feature I still notice and appreciate on a regular basis. They are so super duper soft, and they also look beautiful from outside the car looking in on many instances — at night in the moonlight for example. I am a big fan of the white & black contrast in the interior as well.
+- Overall, I think the Model 3 is indeed the best car in the world. Seriously. The only passenger vehicle I think is a step up is the Model Y crossover/SUV, which offers basically everything the Model 3 offers (except the lower sedan positioning and a slightly lower price) but also much more cargo space, more passenger space, and easier ingress and egress (and that higher positioning/view on the road if you prefer that).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
